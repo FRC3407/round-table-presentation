@@ -2,7 +2,6 @@
 
 [.](./)\
 ├── [lights.mp4](./lights.mp4)\
-├── [README.html](./README.html)\
 ├── [sounds.mp4](./sounds.mp4)\
 ├──
 [wackyWavyInflatableArmFlailingTubeMen.mp4](./wackyWavyInflatableArmFlailingTubeMen.mp4)\
